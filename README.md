@@ -1,2 +1,2 @@
-# hello_test
+# Sample repo
 setting up git
